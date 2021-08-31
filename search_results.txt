@@ -1,0 +1,5 @@
+E:/[BE] Final year/project/chatterbot/.idea/chatterbot.iml
+E:/[BE] Final year/project/chatter_test/.idea/chatter_test.iml
+E:/[BE] Final year/project/Final_year_v2/chatter.py
+E:/[BE] Final year/project/Final_year_v2/__pycache__/chatter.cpython-37.pyc
+E:/[BE] Final year/project/Mock presentation/chatter.eng.JPG
